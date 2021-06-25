@@ -1,6 +1,5 @@
-import logo from './logo.svg';
 import './App.css';
-import Forecast from './components/forecastComponent'
+import Forecast from './components/forecastComponent/forecastComponent'
 
 function App() {
   return (
